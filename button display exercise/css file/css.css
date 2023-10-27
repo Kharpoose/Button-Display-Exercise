@@ -1,0 +1,39 @@
+.name,
+.mail {
+  margin-top: 8px;
+  font-family: verdana;
+  font-size: 18px;
+  display: block;
+}
+
+.text {
+  margin-top: 100px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.yes,
+.no {
+  vertical-align: -170%;
+  margin-right: 2px;
+}
+
+.google {
+  margin-top: 100px;
+  width: 300px;
+  display: block;
+  margin-left: 225px;
+}
+
+.google-text {
+  border: none;
+  margin-left: 25px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  width: 700px;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}
